@@ -1,0 +1,47 @@
+** start of undefined **
+
+<!DOCTYPE html lang="en">
+<html>
+  <main id="main">
+    <link rel="stylesheet" href="styles.css">
+<title id="title">
+  Counter Strike 1.6
+</title> 
+<h1>Counter Strike 1.6</h1>
+<div id="img-div">
+  <img id="image" src="https://preview.redd.it/fhwlc5lse2y51.png?width=798&format=png&auto=webp&s=23a0e6765b26121b117f49bce08c1984b70957f9"></img>
+  <figcaption id="img-caption">
+If you know, you know.
+  </figcaption>
+  </div>
+
+  <div id="tribute-info">
+<p>
+  <i><a>“Rush B, no stop!”</a></i>
+</p>
+<p>
+  <i><a>- '' A Random Russian Guy''</a></i>
+</p>
+  </div>
+
+<a >Visit the CS 1.6 
+  <link><a id="tribute-link" target="_blank" href="https://vk.com/csvkcom">FORUM</a></link>!</a>
+
+
+
+  </main>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+img{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  position: centre;
+}
+
+** end of undefined **
+
